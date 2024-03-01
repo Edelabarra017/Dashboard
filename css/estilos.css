@@ -39,6 +39,8 @@ nav{
     -o-transform: translateX(-90%);
 }
 
-.btn-propio{
-    
+.btn {
+    font-weight: 600 !important;
 }
+
+    

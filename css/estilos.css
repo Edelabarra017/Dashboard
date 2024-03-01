@@ -1,0 +1,43 @@
+* {
+    scroll-behavior: smooth;
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    width: 100% !important;
+    height: 100vh;
+}
+.nop-nom{
+    margin: 0px;
+    padding: 0px;
+} 
+nav{
+    height: 10vh;
+    border-bottom: solid 1px grey;
+    box-shadow: -3px 0px 12px 5px;    
+}
+.navdash{
+    border-right: solid 1px grey;
+    box-shadow: -3px 0px 12px 5px;
+    margin-bottom: 5vh;
+    border-radius: 0px 0px 50px 0px;
+    -webkit-border-radius: 0px 0px 50px 0px;
+    -moz-border-radius: 0px 0px 50px 0px;
+    -ms-border-radius: 0px 0px 50px 0px;
+    -o-border-radius: 0px 0px 50px 0px;
+    width: 0px !important;
+}
+.navdash {
+    transition: transform 0.5s ease;
+}
+
+.navdash.oculto {
+    transform: translateX(-90%);
+    -webkit-transform: translateX(-90%);
+    -moz-transform: translateX(-90%);
+    -ms-transform: translateX(-90%);
+    -o-transform: translateX(-90%);
+}
+
+
+

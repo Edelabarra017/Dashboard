@@ -96,44 +96,12 @@ function limpiarCanva() {
   $('#caja').html('');
 }
 
-function crearcanvas() {
+function crearcanvas() { 
   var caja = document.getElementById("caja");
   var canvas = document.createElement('canvas');
 
   canvas.id = 'myChart';
   caja.appendChild(canvas);
-
-
-// footer.js
-export function mostrarContacto() {
-  alert('Contacto: Euromonedasycrypto@gmail.com');
 }
 
-// navdash.js
-const btnLlamador = document.getElementById("btnLlamador");
-const navdash = document.querySelector(".navdash");
-
-btnLlamador.addEventListener("click", () => {
-  navdash.classList.toggle("oculto");
-});
-
-export function boton1() {
-  limpiarCanva();
-  crearcanvas();
-  await llamarapi1();
-}
-
-export function boton2() {
-  limpiarCanva();
-  crearcanvas();
-  await llamarapi2();
-}
-
-export function boton3() {
-  limpiarCanva();
-  crearcanvas();
-  await llamarapi3();
-}
-
-// Resto del código...
-
+ 

@@ -14,6 +14,13 @@ interactiva para visualizar datos en tiempo real de criptomonedas
 # Uso
 
 - Su propósito es visualizar en tiempo real una API de criptomonedas, sirviendo como un dashboard educativo
-- que brinda la oportunidad de aprender cómo construirlo."
+ que brinda la oportunidad de aprender cómo construirlo.
+
+# Api Utilizada para recopilacion de datos 
+
+|            Api              |    Sitio      |    Url    |
+|-----------------------------|-----------   |-----------|
+| Informacion Cryptomonedas   | Celda 2      | https://currency-api.pages.dev/v1/currencies/btc.json  |
+
 
 

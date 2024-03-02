@@ -1,14 +1,9 @@
 ![Logo del Proyecto](https://pensionersportal.gov.in/assets/images/dashboard.png)
 
 
+Este dashboard es un proyecto práctico del BootCamp.Desarrollado con HTML5, CSS3 y JavaScript, proporciona una experiencia 
+interactiva para visualizar datos en tiempo real de criptomonedas
 
-Bienvenido al Proyecto Increíble. Este proyecto hace cosas increíbles y está diseñado para hacer tu vida más fácil.
-
-# Características Destacadas
-
-- Funcionalidad Asombrosa 1
-- Característica Increíble 2
-- Algo Asombroso 3
 
 # Instalación
 
